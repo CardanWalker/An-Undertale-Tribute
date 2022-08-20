@@ -1,0 +1,120 @@
+#papyrus {
+    background-color:crimson;
+    border: 10px solid black;
+    padding: 1%;
+    margin: 50px;
+}
+
+p{
+    color: azure;
+}
+
+#music {
+    background-color: grey;
+    border: 10px solid black;
+    padding: 1%;
+    margin: 50px;
+}
+
+#route
+{
+    background-color: black;
+    color: whitesmoke;
+    border: 10px solid black;
+    padding: 1%;
+    margin: 50px;
+}
+
+#chara {
+    background-color: rgb(255, 0, 0);
+    border: 10px solid black;
+    padding: 1%;
+    margin: 50px;
+}
+
+#charap {
+    font-family: sans-serif;
+    border: 2px solid black;
+}
+
+#sans {
+    background-color: blue;
+    color: white;
+    font-family: cursive;
+    border: 10px solid black;
+    padding: 1%;
+    margin: 50px;
+}
+
+#sansp {
+    font-family: cursive;
+    border: 2px solid black;
+}
+
+a:link{
+    background-color:transparent;
+    color: indianred;
+    text-decoration: double;
+}
+
+a:active{
+    background-color:brown;
+    color: aqua;
+    text-decoration: solid;
+}
+
+a:hover{
+    background-color: transparent;
+    color: navajowhite;
+    text-decoration: solid;
+}
+
+a:visited{
+    background-color: red;
+    color: violet;
+    text-decoration: line-through;
+}
+body{
+    background-color: black;
+    color: whitesmoke;
+}
+
+#IntroHeading{
+    background-image: url(./Assets/UTTITLE.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 1%;
+    margin: 50px;
+    border: 2px solid black;
+    background-color: transparent;
+}
+
+th,td{
+    border: 2px inset gray;
+    width: 100px;
+}
+
+tr{
+    border-bottom: 2px solid black;
+}
+
+picture{
+    padding: 100px;
+    margin: 100px;
+
+}
+
+input{
+    width: 100%;
+}
+
+button{
+    width: 10%;
+}
+
+#googleButton{
+    padding: 20px;
+    background-color: blue;
+    color: red;
+}
